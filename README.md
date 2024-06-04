@@ -1,4 +1,3 @@
-```markdown
 # SQL Query Generator
 
 This project generates SQL queries from natural language input using a pre-trained T5 model. The T5 model is used for converting natural language questions into corresponding SQL queries. This can be particularly useful for automating query generation for databases.
